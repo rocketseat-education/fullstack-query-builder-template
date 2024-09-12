@@ -1,0 +1,20 @@
+{
+  "name": "query_builder",
+  "version": "1.0.0",
+  "description": "Aulas de Query builder",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "author": "Rodrigo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.2.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",    
+    "tsx": "^4.17.0"
+  }
+}
